@@ -10,4 +10,5 @@ git push -u origin master
 git branch
 git log -p
 git checkout
+git diff
 
