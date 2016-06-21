@@ -6,5 +6,8 @@ git push
 git init
 git log 
 git remote add origin <url>
-git push -origin master
+git push -u origin master
+git branch
+git log -p
+git checkout
 
