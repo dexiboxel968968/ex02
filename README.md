@@ -3,5 +3,8 @@
 ### さようなら
 ---
 git push
-git remove
-git 
+git init
+git log 
+git remote add origin <url>
+git push -origin master
+
